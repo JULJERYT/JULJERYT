@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on no one
 - 🚩 My home country is: Poland
 - 📫 How to reach me: 
-      - Youtube Channel: JULJERYT Kidosek (in polish)
-      - Mail: JULJERYT@gmail.com
+- Youtube Channel: JULJERYT Kidosek (in polish)
+- Mail: JULJERYT@gmail.com
 Bye!
