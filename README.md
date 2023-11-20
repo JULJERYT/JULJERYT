@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @JULJERYT<br>👀 I’m interested in Minecraft and malware<br>🌱 I’m currently learning writing programs<br>💞️ I’m looking to collaborate on no one<br>🚩 My home country is: Poland<br>📫 How to reach me:<br>Youtube Channel: JULJERYT Kidosek (in polish)<br>Mail: kontakt@juljeryt.pl<br>Bye!
+👋 Hi, I’m @JULJERYT<br>👀 I’m interested in hacking and editing<br>🌱 I’m currently learning writing programs<br>💞️ I’m looking to collaborate on no one<br>🚩 My home country is: Poland<br>📫 How to reach me:<br>Youtube Channel: JULJERYT Kidosek (in polish)<br>Mail: kontakt@juljeryt.pl<br>Bye!
 
 
 ## 🌐 Socials:
