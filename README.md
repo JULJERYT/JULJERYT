@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JULJERYT</h1>
-<h3 align="center">Good kid interested in computers from Poland</h3>
+<h3 align="center">Boy interested in computers from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juljeryt&label=Profile%20views&color=ff0000&style=flat" alt="juljeryt" /> </p>
 
