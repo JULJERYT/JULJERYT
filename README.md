@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **minecraft servers, modding phones, programming and more**
 
-- 📫 How to reach me **kontakt@juljeryt.pl** or 
+- 📫 How to reach me **kontakt@juljeryt.pl** or on [discord](https://discord.com/users/1022204702223499364/)
 
 - ⚡ Fun fact **I love traveling to big cities**
 
