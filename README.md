@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juljeryt" alt="juljeryt" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, JS, Python (everything)**
+- 🌱 I’m currently learning **HTML, CSS, JS, Python (everything xd)**
 
 - 📝 My site (dont ddos me pls) [https://juljeryt.pl/](https://juljeryt.pl/)
 
-- 💬 Ask me about **minecraft servers, modding phones**
+- 💬 Ask me about **minecraft servers, modding phones, programming and more**
 
-- 📫 How to reach me **kontakt@juljeryt.pl**
+- 📫 How to reach me **kontakt@juljeryt.pl** or 
 
 - ⚡ Fun fact **In real life I hacked my school (I have access to teacher accounts + all smart screens)**
 
@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/juljeryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juljeryt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/juljeryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juljeryt" height="30" width="40" /></a>
-<a href="https://dc.juljeryt.pl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dc.juljeryt.pl/" height="30" width="40" /></a>
+<a href="https://discord.com/users/1022204702223499364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1022204702223499364/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
