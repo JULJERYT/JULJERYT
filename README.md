@@ -13,12 +13,10 @@
 
 - 📫 How to reach me **kontakt@juljeryt.pl** or 
 
-- ⚡ Fun fact **In real life I hacked my school (I have access to teacher accounts + all smart screens)**
+- ⚡ Fun fact **I love traveling to big cities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/juljeryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="juljeryt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/juljeryt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="juljeryt" height="30" width="40" /></a>
 <a href="https://discord.com/users/1022204702223499364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1022204702223499364/" height="30" width="40" /></a>
 </p>
 
