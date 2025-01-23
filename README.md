@@ -12,5 +12,3 @@
 <h1 align="center">
 <a href="https://juljeryt.pl/?github">find out more about me on my website!</a>
 </h1>
-
-![](https://komarev.com/ghpvc/?juljeryt)
