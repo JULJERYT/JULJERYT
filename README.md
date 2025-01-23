@@ -9,6 +9,6 @@
 - I like making unusual websites and sometimes I pentest them for fun. 😁
 - Besides computers, I also like good food and traveling to big cities. 😋
 
-<p align="center">
-### [find out more about me on my website!](https://juljeryt.pl/?github)
-</p>
+<h1 align="center">
+[find out more about me on my website!](https://juljeryt.pl/?github)
+</h1>
