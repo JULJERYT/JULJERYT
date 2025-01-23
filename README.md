@@ -9,8 +9,8 @@
   <img alig src="https://raw.githubusercontent.com/JULJERYT/JULJERYT/refs/heads/main/passwords.gif" />
 </p>
 
-### My portfolio
+### Reach me around the web
 
-- My website
+- [My website](juljeryt.pl)
 - (coming soon)
 - (coming soon)
