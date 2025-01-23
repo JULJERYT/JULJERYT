@@ -9,4 +9,4 @@
   <img alig src="https://raw.githubusercontent.com/JULJERYT/JULJERYT/refs/heads/main/passwords.gif" />
 </p>
 
-### [More about me on my website](https://juljeryt.pl/?github)
+### [find out more about me on my website!](https://juljeryt.pl/?github)
