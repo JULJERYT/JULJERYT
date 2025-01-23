@@ -10,5 +10,5 @@
 - Besides computers, I also like good food and traveling to big cities. 😋
 
 <h1 align="center">
-[find out more about me on my website!](https://juljeryt.pl/?github)
+<a href="https://juljeryt.pl/?github">find out more about me on my website!</a>
 </h1>
