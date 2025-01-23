@@ -3,7 +3,6 @@
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JULJERYT&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
-![](https://komarev.com/ghpvc/?username=your-github-username&color=CE1D2D&style=flat&label=views)
 
 ### Hi there, I'm Julek 🙋‍♂️
 
@@ -13,3 +12,5 @@
 <h1 align="center">
 <a href="https://juljeryt.pl/?github">find out more about me on my website!</a>
 </h1>
+
+![](https://komarev.com/ghpvc/?juljeryt)
