@@ -11,7 +11,5 @@
 
 <h1 align="center">
 <a href="https://juljeryt.pl/?github">find out more about me</a>
-</h1>
-<h1 align="center">
 <a href="https://juljeryt.pl/?github">on my website!</a>
 </h1>
