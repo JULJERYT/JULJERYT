@@ -10,6 +10,6 @@
 - Besides computers, I also like good food and traveling to big cities. 😋
 
 <h1 align="center">
-<a href="https://juljeryt.pl/?github">find out more about me</a>
-<a href="https://juljeryt.pl/?github">on my website!</a>
+<a align="center" href="https://juljeryt.pl/?github">find out more about me</a>
+<a align="center" href="https://juljeryt.pl/?github">on my website!</a>
 </h1>
